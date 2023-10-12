@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- ⚾ I model baseball and develop tools for Bayesian inference at [Big League Advantage](https://bigleagueadvantage.com)
+- I model baseball ⚾ and develop tools for Bayesian inference at [Big League Advantage](https://bigleagueadvantage.com)
 - In my spare time I like thinking about:
     - cities 🏙️ and how we can make them better
     - how science 📊 can be more open and cumulative (do more of it on here! :octocat:)
