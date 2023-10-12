@@ -5,7 +5,6 @@
     - cities 🏙️ and how we can make them better
     - how science 📊 can be more open and cumulative (do more of it on here! :octocat:)
 
-- 
 <!--
 **brendancooley/brendancooley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
