@@ -4,6 +4,7 @@
 - In my spare time I like thinking about:
     - cities 🏙️ and how we can make them better
     - how science 📊 can be more open and cumulative (do more of it on here! :octocat:)
+    - Market design and mechanisms for collective decision-making 🗳️ and decentralized information aggregation
 
 <!--
 **brendancooley/brendancooley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
